@@ -6,3 +6,5 @@ settings.json
 *.model
 *.npy
 *.txt
+
+!requirements.txt
